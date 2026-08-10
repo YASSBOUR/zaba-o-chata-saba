@@ -1,1 +1,16 @@
-
+{
+  "novelId": "novel_1",
+  "bookTitle": "رواية امتلكني عشقه",
+  "author": "الكاتبة العربية",
+  "coverUrl": "https://example.com/covers/emtalakni_ashqoh.jpg",
+  "description": "قصة درامية غامضة ومشوقة تحكي عن العواطف السامية والتحديات في عالم الكنيشكوه.",
+  "chapters": [
+    {
+      "id": "1",
+      "chapterId": "1",
+      "title": "الفصل الأول: البداية الغامضة",
+      "requiresCoins": false,
+      "chapterUrl": "https://raw.githubusercontent.com/YASSBOUR/zaba-o-chata-saba/main/novels/novel_1/chapters/chapter_1.json"
+    }
+  ]
+}
