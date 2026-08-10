@@ -1,0 +1,18 @@
+{
+  "appTitle": "هوى الروايات",
+  "novels": [
+    {
+      "id": "novel_1",
+      "novelId": "novel_1",
+      "title": "رواية امتلكني عشقه",
+      "author": "الكاتبة العربية",
+      "coverImageUrl": "https://example.com/covers/emtalakni_ashqoh.jpg",
+      "description": "قصة درامية غامضة ومشوقة تحكي عن العواطف السامية والتحديات، حيث تتلاقى المصائر وتنكشف الأسرار.",
+      "category": "روايات رومانسية",
+      "isFeatured": true,
+      "isNew": true,
+      "novelIndexUrl": "https://raw.githubusercontent.com/YASSBOUR/zaba-o-chata-saba/main/novels/novel_1/index.json",
+      "chapterCount": 10
+    }
+  ]
+}
