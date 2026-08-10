@@ -10,7 +10,7 @@
       "description": "قصة درامية غامضة ومشوقة تحكي عن العواطف السامية والتحديات، حيث تتلاقى المصائر وتنكشف الأسرار.",
       "category": "روايات رومانسية",
       "isFeatured": true,
-      "isNew": false,
+      "isNew": true,
       "novelIndexUrl": "https://raw.githubusercontent.com/YASSBOUR/zaba-o-chata-saba/refs/heads/main/tinfusin/tinfust_1/index.json",
       "chapterCount": 10
     }
